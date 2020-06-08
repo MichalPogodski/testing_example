@@ -3,3 +3,4 @@ class TestClass:
     
 	def test_one(self):
     		assert 'n' in self.name
+
